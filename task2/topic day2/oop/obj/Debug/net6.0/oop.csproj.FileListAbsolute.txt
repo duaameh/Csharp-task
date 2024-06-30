@@ -1,0 +1,14 @@
+C:\Users\USER\orange task\C#\topic day2\oop\bin\Debug\net6.0\oop.exe
+C:\Users\USER\orange task\C#\topic day2\oop\bin\Debug\net6.0\oop.deps.json
+C:\Users\USER\orange task\C#\topic day2\oop\bin\Debug\net6.0\oop.runtimeconfig.json
+C:\Users\USER\orange task\C#\topic day2\oop\bin\Debug\net6.0\oop.dll
+C:\Users\USER\orange task\C#\topic day2\oop\bin\Debug\net6.0\oop.pdb
+C:\Users\USER\orange task\C#\topic day2\oop\obj\Debug\net6.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\orange task\C#\topic day2\oop\obj\Debug\net6.0\oop.AssemblyInfoInputs.cache
+C:\Users\USER\orange task\C#\topic day2\oop\obj\Debug\net6.0\oop.AssemblyInfo.cs
+C:\Users\USER\orange task\C#\topic day2\oop\obj\Debug\net6.0\oop.csproj.CoreCompileInputs.cache
+C:\Users\USER\orange task\C#\topic day2\oop\obj\Debug\net6.0\oop.dll
+C:\Users\USER\orange task\C#\topic day2\oop\obj\Debug\net6.0\refint\oop.dll
+C:\Users\USER\orange task\C#\topic day2\oop\obj\Debug\net6.0\oop.pdb
+C:\Users\USER\orange task\C#\topic day2\oop\obj\Debug\net6.0\oop.genruntimeconfig.cache
+C:\Users\USER\orange task\C#\topic day2\oop\obj\Debug\net6.0\ref\oop.dll
